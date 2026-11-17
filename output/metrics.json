@@ -1,0 +1,8 @@
+{
+  "records": 500,
+  "training_records": 400,
+  "testing_records": 100,
+  "MAE": 1.402,
+  "RMSE": 1.756,
+  "R2": 0.856
+}
